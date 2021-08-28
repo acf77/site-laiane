@@ -1,8 +1,6 @@
 /*
 
-TemplateMo 565 Onix Digital
 
-https://templatemo.com/tm-565-onix-digital
 
 
 ------------------------------------------------
@@ -241,6 +239,10 @@ body {
 .main-blue-button-hover a:hover {
   background-color: #EC4392;
 }
+
+
+
+
 
 .main-red-button a {
   display: inline-block;
@@ -1805,7 +1807,7 @@ footer .footer-item h4 {
 }
 
 footer .about .logo img {
-  width: 89px;
+  width: 160px;
   margin-bottom: 30px;
 }
 
