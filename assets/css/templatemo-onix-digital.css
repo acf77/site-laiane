@@ -889,7 +889,7 @@ Banner Style
 
 .main-banner:before {
   content: '';
-  background-image: url(../images/2.png);
+  background-image: url(../images/2.webp);
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
@@ -1388,15 +1388,15 @@ Pricing
 }
 
 .pricing-tables .first-item {
-  background-image: url(../images/first-plan-bg.png);
+  background-image: url(../images/first-plan-bg.webp);
 }
 
 .pricing-tables .second-item {
-  background-image: url(../images/second-plan-bg.png);
+  background-image: url(../images/second-plan-bg.webp);
 }
 
 .pricing-tables .third-item {
-  background-image: url(../images/third-plan-bg.png);
+  background-image: url(../images/third-plan-bg.webp);
 }
 
 
@@ -1735,7 +1735,7 @@ form#contact {
   margin-left: -100px;
   position: relative;
   z-index: 2;
-  background-image: url(../images/contact-form-bg.png);
+  background-image: url(../images/contact-form-bg.webp);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
