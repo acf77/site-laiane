@@ -221,6 +221,7 @@ body {
   padding: 12px 25px;
   border-radius: 23px;
   letter-spacing: 0.25px;
+  margin: 40px;
 }
 
 .main-blue-button-hover a {
@@ -952,6 +953,7 @@ Banner Style
   font-size: 15px;
   font-weight: 500;
   margin-left: 30px;
+  padding: 5px;
 }
 
 .main-banner .owl-dots {
@@ -1382,6 +1384,7 @@ Pricing
 
 .pricing-tables .item .main-blue-button {
   margin-top: 40px;
+  margin: 40px;
 }
 
 .pricing-tables .first-item {
